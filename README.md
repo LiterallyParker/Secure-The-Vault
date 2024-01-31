@@ -1,2 +1,2 @@
-Secure the Vault project
+Secure the Vault 
 block07 workshop
